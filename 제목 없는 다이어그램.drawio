@@ -203,6 +203,11 @@
             <mxPoint x="690" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="mSARZlNbXS721C2Y4noy-60" value="M" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mSARZlNbXS721C2Y4noy-48">
+          <mxGeometry x="0.5212" relative="1" as="geometry">
+            <mxPoint x="-16" y="-13" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="mSARZlNbXS721C2Y4noy-52" value="구매번호" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
           <mxGeometry x="490" y="570" width="80" height="40" as="geometry" />
         </mxCell>
@@ -232,6 +237,9 @@
             <mxPoint x="620" y="540" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="mSARZlNbXS721C2Y4noy-59" value="N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="520" y="465" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
